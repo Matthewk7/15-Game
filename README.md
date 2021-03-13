@@ -1,6 +1,6 @@
 # 15-Game
 
-Implement the game 15 puzzle using and array of doubly linked lists.
+Implement the game 15 puzzle using an array of doubly linked lists.
 
 
 RULES
